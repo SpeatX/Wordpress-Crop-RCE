@@ -31,9 +31,7 @@ A valid WordPress account with media upload/edit permissions is required. In man
 ├── exploit_oscp.py
 ├── image.jpg
 ├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
+└── requirements.txt
 ```
 
 `image.jpg` is the default JPG carrier used by the OSCP-style script. It is included so the manual workflow works out of the box without searching for a random image.
